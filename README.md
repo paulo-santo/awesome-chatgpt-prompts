@@ -36,6 +36,7 @@ Try out vibe coding examples and create your own small working products.
 **[View on prompts.chat](https://prompts.chat)**
 
 **[View on Hugging Face](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts/)**
+
 ---
 
 > ℹ️ **NOTE:** Sometimes, some of the prompts may not be working as you expected
