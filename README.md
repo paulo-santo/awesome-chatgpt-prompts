@@ -29,6 +29,10 @@ To get started, simply clone this repository and use the prompts in the README.m
 
 We hope you find these prompts useful and have fun exploring AI chat models!
 
+**NEW: [Vibe Coding Prompts](https://prompts.chat/vibe/)**
+
+Try out vibe coding examples and create your own small working products.
+
 **[View on prompts.chat](https://prompts.chat)**
 
 **[View on Hugging Face](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts/)**
